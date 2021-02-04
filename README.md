@@ -3,9 +3,12 @@ this is readme page test
 - md test  
 <s>html test</s>
 
-<details title="hello detail">
-    hello details content
 <details>
+    <summary> 
+        hello detail
+    </summary> 
+    hello details content
+</details>
 
 <!--
 <iframe src="://codepen.io/thetime50/full/dyowVWE" />
