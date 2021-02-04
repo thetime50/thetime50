@@ -4,6 +4,9 @@ this is readme page test
 <s>html test</s>
 <iframe src="://codepen.io/thetime50/full/dyowVWE" />
 <iframe src="://thetime50.github.io/show-pages/t-rex-runner-zero/components/neterror/resources/neterror.html" />
+<script>
+  console.log('hello script')
+ </script>
 
 
 <!--
