@@ -1,5 +1,6 @@
 
-[**aboutme**](http://thetime50.com/resume/resume)
+[**aboutme**](http://thetime50.com/resume/resume)  
+[**aboutme en**](https://thetime50.github.io/resume/resume)
 
 ### Hi there 👋
 this is readme page test
